@@ -18,6 +18,7 @@ This is a Go port of the Rust [steamlocate-rs](https://github.com/WilliamVenner/
 ```bash
 go get github.com/AsakuraMori/steamlocate-go
 ```
+If failed, try to clone this repo.
 
 ## Usage
 
